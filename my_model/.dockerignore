@@ -1,0 +1,5 @@
+# Ignore the data_set folder
+data_set/
+
+# Ignore the app.ipynb file
+app.ipynb
